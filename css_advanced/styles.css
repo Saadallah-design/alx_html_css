@@ -115,7 +115,7 @@ nav a:hover {
     padding: var(--section-padding);
     color: var(--white);
     background-color: var(--light-gray);
-    background-image: url(src/CSS\ Advanced/object.png);
+    background-image: url(src/CSS\ Advanced/Object.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
